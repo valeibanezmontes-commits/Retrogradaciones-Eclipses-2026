@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PG//Astro Digital//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Astro 2026 — Retrogradaciones
+COLOR:black
+X-APPLE-CALENDAR-COLOR:black
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:68f62cad61631271@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260204T023324Z
+DTEND:20260204T043324Z
+SUMMARY:♅ Urano estaciona directo
+DESCRIPTION:Estación de Urano: pasa a movimiento directo en Tauro.\n\nCon
+ sejo: revisar antes de avanzar.
+CATEGORIES:Urano\,Retrogradación
+COLOR:turquoise
+X-APPLE-CALENDAR-COLOR:turquoise
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1faeaa253fac871@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260226T064814Z
+DTEND:20260226T084814Z
+SUMMARY:☿ Mercurio estaciona retrógrado
+DESCRIPTION:Estación de Mercurio: pasa a movimiento retrógrado en Piscis.
+ \n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec815c374491a9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260311T033008Z
+DTEND:20260311T053008Z
+SUMMARY:♃ Júpiter estaciona directo
+DESCRIPTION:Estación de Júpiter: pasa a movimiento directo en Cáncer.\n\n
+ Consejo: revisar antes de avanzar.
+CATEGORIES:Júpiter\,Retrogradación
+COLOR:tan
+X-APPLE-CALENDAR-COLOR:tan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6141bc31d210184@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260320T193254Z
+DTEND:20260320T213254Z
+SUMMARY:☿ Mercurio estaciona directo
+DESCRIPTION:Estación de Mercurio: pasa a movimiento directo en Piscis.\n\
+ nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:acd2c480093c9677@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260506T153419Z
+DTEND:20260506T173419Z
+SUMMARY:♇ Plutón estaciona retrógrado
+DESCRIPTION:Estación de Plutón: pasa a movimiento retrógrado en Acuario.\
+ n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Plutón\,Retrogradación
+COLOR:darkred
+X-APPLE-CALENDAR-COLOR:darkred
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd029bf0e5f1b90@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260629T173559Z
+DTEND:20260629T193559Z
+SUMMARY:☿ Mercurio estaciona retrógrado
+DESCRIPTION:Estación de Mercurio: pasa a movimiento retrógrado en Cáncer.
+ \n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46688b549c928de3@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260707T105439Z
+DTEND:20260707T125439Z
+SUMMARY:♆ Neptuno estaciona retrógrado
+DESCRIPTION:Estación de Neptuno: pasa a movimiento retrógrado en Aries.\n
+ \nConsejo: revisar antes de avanzar.
+CATEGORIES:Neptuno\,Retrogradación
+COLOR:deepskyblue
+X-APPLE-CALENDAR-COLOR:deepskyblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b19dd50320722787@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260723T225755Z
+DTEND:20260724T005755Z
+SUMMARY:☿ Mercurio estaciona directo
+DESCRIPTION:Estación de Mercurio: pasa a movimiento directo en Cáncer.\n\
+ nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af27a5e212c05176@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260726T195648Z
+DTEND:20260726T215648Z
+SUMMARY:♄ Saturno estaciona retrógrado
+DESCRIPTION:Estación de Saturno: pasa a movimiento retrógrado en Aries.\n
+ \nConsejo: revisar antes de avanzar.
+CATEGORIES:Saturno\,Retrogradación
+COLOR:gray
+X-APPLE-CALENDAR-COLOR:gray
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abcf43b8711ad0ca@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20260910T182721Z
+DTEND:20260910T202721Z
+SUMMARY:♅ Urano estaciona retrógrado
+DESCRIPTION:Estación de Urano: pasa a movimiento retrógrado en Géminis.\n
+ \nConsejo: revisar antes de avanzar.
+CATEGORIES:Urano\,Retrogradación
+COLOR:turquoise
+X-APPLE-CALENDAR-COLOR:turquoise
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b9232b61b69eee2a@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261003T071551Z
+DTEND:20261003T091551Z
+SUMMARY:♀ Venus estaciona retrógrado
+DESCRIPTION:Estación de Venus: pasa a movimiento retrógrado en Escorpio.\
+ n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Venus\,Retrogradación
+COLOR:pink
+X-APPLE-CALENDAR-COLOR:pink
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91436d1370f1548c@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261016T024016Z
+DTEND:20261016T044016Z
+SUMMARY:♇ Plutón estaciona directo
+DESCRIPTION:Estación de Plutón: pasa a movimiento directo en Acuario.\n\n
+ Consejo: revisar antes de avanzar.
+CATEGORIES:Plutón\,Retrogradación
+COLOR:darkred
+X-APPLE-CALENDAR-COLOR:darkred
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47bb3bab55272bc9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261024T071248Z
+DTEND:20261024T091248Z
+SUMMARY:☿ Mercurio estaciona retrógrado
+DESCRIPTION:Estación de Mercurio: pasa a movimiento retrógrado en Escorpi
+ o.\n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8df95be69c65383d@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261113T155357Z
+DTEND:20261113T175357Z
+SUMMARY:☿ Mercurio estaciona directo
+DESCRIPTION:Estación de Mercurio: pasa a movimiento directo en Escorpio.\
+ n\nConsejo: revisar antes de avanzar.
+CATEGORIES:Mercurio\,Retrogradación
+COLOR:lightblue
+X-APPLE-CALENDAR-COLOR:lightblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:242e52cfdf571823@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261114T002730Z
+DTEND:20261114T022730Z
+SUMMARY:♀ Venus estaciona directo
+DESCRIPTION:Estación de Venus: pasa a movimiento directo en Libra.\n\nCon
+ sejo: revisar antes de avanzar.
+CATEGORIES:Venus\,Retrogradación
+COLOR:pink
+X-APPLE-CALENDAR-COLOR:pink
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:699fcb846e453ca9@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261210T233102Z
+DTEND:20261211T013102Z
+SUMMARY:♄ Saturno estaciona directo
+DESCRIPTION:Estación de Saturno: pasa a movimiento directo en Aries.\n\nC
+ onsejo: revisar antes de avanzar.
+CATEGORIES:Saturno\,Retrogradación
+COLOR:gray
+X-APPLE-CALENDAR-COLOR:gray
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e41768fcffb4b3c0@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261212T221722Z
+DTEND:20261213T001722Z
+SUMMARY:♆ Neptuno estaciona directo
+DESCRIPTION:Estación de Neptuno: pasa a movimiento directo en Aries.\n\nC
+ onsejo: revisar antes de avanzar.
+CATEGORIES:Neptuno\,Retrogradación
+COLOR:deepskyblue
+X-APPLE-CALENDAR-COLOR:deepskyblue
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3ec15b87f7b1fc@astro.local
+DTSTAMP:20260427T152559Z
+DTSTART:20261213T005636Z
+DTEND:20261213T025636Z
+SUMMARY:♃ Júpiter estaciona retrógrado
+DESCRIPTION:Estación de Júpiter: pasa a movimiento retrógrado en Leo.\n\n
+ Consejo: revisar antes de avanzar.
+CATEGORIES:Júpiter\,Retrogradación
+COLOR:tan
+X-APPLE-CALENDAR-COLOR:tan
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
